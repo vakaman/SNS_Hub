@@ -1,0 +1,4 @@
+
+class MessagePublisherService:
+    
+    pass
